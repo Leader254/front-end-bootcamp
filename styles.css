@@ -14,3 +14,7 @@ body::before{
     width: 100%;
     border-radius: 10px;
 }
+.background{
+    background: rgb(45,6,71);
+background: linear-gradient(90deg, rgba(45,6,71,1) 0%, rgba(253,29,29,1) 50%, rgba(255,149,0,1) 100%);
+}
