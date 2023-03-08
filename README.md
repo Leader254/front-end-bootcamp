@@ -1,2 +1,1 @@
-# front-end-bootcamp
-using css bootstrap framework
+For viewing: samuelorders.me/front-end-bootcamp/
